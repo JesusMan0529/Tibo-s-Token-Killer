@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/black-feather.png" alt="黑色羽毛" width="96"></p>
 <h1 align="center">Tibo's Token Killer</h1>
-<p align="center"><strong>趁 Tibo 还没摸到按钮之前榨干你的所有的额度！</strong></p>
+<p align="center"><strong>趁 Tibo 还没摸到按钮之前榨干你所有的额度！</strong></p>
 
 Codex 额度任务助手是一位不用喝咖啡的值班同事。把任务交给它，电脑开着时，它会每 15 分钟查看一次 Codex 额度；额度可用，就在你指定的文件夹里继续工作。额度暂时用完，它等下一轮；任务做完，它会收工，不会反复提交同一份作业。
 
