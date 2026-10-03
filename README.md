@@ -8,7 +8,7 @@ Codex 额度任务助手是一位不用喝咖啡的值班同事。把任务交�
 
 ### 设置面板预览
 
-![Codex 额度任务助手设置面板](assets/settings-panel.png)
+<p align="center"><img src="assets/settings-panel.png" alt="Codex 额度任务助手设置面板" width="540"></p>
 
 > *图中的任务和额度是截图时的示例内容。*
 
