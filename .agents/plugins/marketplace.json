@@ -1,0 +1,12 @@
+{
+  "name": "lihaodong-local",
+  "interface": { "displayName": "LiHaoDong 本地插件" },
+  "plugins": [
+    {
+      "name": "codex-quota-watcher",
+      "source": { "source": "local", "path": "./plugins/codex-quota-watcher" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

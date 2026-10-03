@@ -1,0 +1,17 @@
+{
+  "description": "仅将独立发送的开关口令交给本地控制器处理。",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"${PLUGIN_ROOT}/scripts/watcher.py\" hook",
+            "commandWindows": "python \"${PLUGIN_ROOT}/scripts/watcher.py\" hook",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "codex-quota-watcher",
+  "version": "1.0.4",
+  "description": "每 15 分钟检测 Codex 额度，执行人工指定的目标任务。",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json",
+  "interface": {
+    "displayName": "Codex 额度任务助手",
+    "shortDescription": "额度恢复后自动执行任务，支持口令和面板开关。",
+    "developerName": "LiHaoDong",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"]
+  }
+}
